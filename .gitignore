@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Sensitive configs — never commit these
+*.env
+*.key
+*.pem
+secrets/
+credentials/
+
+# Temp files
+*.tmp
+*.log
