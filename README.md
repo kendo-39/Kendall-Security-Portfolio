@@ -33,6 +33,12 @@ All labs were built and executed on personal infrastructure.
 - **Display:** UCTronics 3.5" HDMI LCD — console monitoring
 - **Power:** Anker USB power bank — portable field operation
 
+### GCP Cloud Security Lab
+- **Platform:** Google Cloud Platform · Project: tilopay-lab-2026
+- **Region:** us-central1 · Load Balancer IP: 8.233.157.231
+- **Stack:** VPC · IAM Custom Roles · Cloud Armor WAF · Cloud Logging · Pub/Sub
+- **Integration:** Wazuh SIEM (on-premise) via GCP Pub/Sub — hybrid architecture
+
 ---
 
 ## Tools & Frameworks
@@ -46,6 +52,9 @@ All labs were built and executed on personal infrastructure.
 **Penetration Testing**  
 `aircrack-ng` `airodump-ng` `aireplay-ng` `airmon-ng` `Kismet` `Reaver` `Wash`  
 `Metasploit` `Burp Suite` `Hydra` `SQLMap`
+
+**Cloud Security**  
+`GCP Compute Engine` `Cloud Armor` `Cloud IAM` `Cloud Logging` `Pub/Sub` `gcloud CLI`
 
 **Analysis & Forensics**  
 `Wireshark` `tshark` `Nmap`
