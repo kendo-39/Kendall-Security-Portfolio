@@ -14,6 +14,7 @@ All labs were built and executed on personal infrastructure.
 | [HTB Silentium — Penetration Test Report](./reports/Silentium_HTB_Pentest_Report.pdf) | Penetration Testing | HackTheBox machine. 4-finding exploit chain: CVE-2025-58434, CVE-2025-59528, CVE-2025-8110. Full root compromise |
 | [ATM Security Risk Analysis](./reports/ATM_Analisis_Riesgos_KendallMontero.pdf) | Risk Analysis | Physical + cyber risk analysis of ATM infrastructure. PCI DSS, ISO 27001, NIST CSF alignment |
 | [Wireless Pentesting Lab Report](./reports/Wireless_Pentesting_Lab_Report.pdf) | Penetration Testing | Portable wireless security lab on Raspberry Pi 3B+ with Kali Linux. Full WPA2 attack chain: passive recon, deauth frame injection, 4-way handshake capture, and offline credential recovery. Hidden SSID detection, open network traffic analysis, and WPS enumeration using Alfa AWUS1900, aircrack-ng suite, and Kismet |
+| [GCP Security Lab — TiloPay](./reports/TiloPay_Lab_Report_EN.pdf) | Cloud Security | GCP lab built for a fintech role: custom VPC, IAM roles, Cloud Armor WAF (OWASP Top 10), Cloud Logging, and Wazuh SIEM integration via Pub/Sub. 100% SQLi and XSS blocked. PCI DSS v4.0 aligned |
 
 ---
 
