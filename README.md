@@ -10,7 +10,7 @@ All labs were built and executed on personal infrastructure.
 | Report | Area | Description |
 |--------|------|-------------|
 | [Vulnerability Management Program — Lab Assessment](./reports/VM_Report_Kendall_Montero.pdf) | Vulnerability Management | Full Qualys VMDR lifecycle: unauthenticated → authenticated → post-hardening. 3 VMs, 706 findings, SOPs, risk exceptions |
-| [SOC Homelab — Attack & Detection Report](./reports/SOC_HomeLab_Full_Report_v2.pdf) | SOC / Blue Team | Wazuh SIEM + ModSecurity WAF lab. Phase 1 (no WAF) vs Phase 2 (WAF active). Custom MITRE-mapped detection rules |
+| [SOC Homelab — Attack & Detection Report](./reports/SOC_HomeLab_Full_Report.pdf) | SOC / Blue Team | Wazuh SIEM + ModSecurity WAF lab. Phase 1 (no WAF) vs Phase 2 (WAF active). Custom MITRE-mapped detection rules |
 | [HTB Silentium — Penetration Test Report](./reports/Silentium_HTB_Pentest_Report.pdf) | Penetration Testing | HackTheBox machine. 4-finding exploit chain: CVE-2025-58434, CVE-2025-59528, CVE-2025-8110. Full root compromise |
 | [ATM Security Risk Analysis](./reports/ATM_Analisis_Riesgos_KendallMontero.pdf) | Risk Analysis | Physical + cyber risk analysis of ATM infrastructure. PCI DSS, ISO 27001, NIST CSF alignment |
 | [Wireless Pentesting Lab Report](./reports/Wireless_Pentesting_Lab_Report.pdf) | Penetration Testing | Portable wireless security lab on Raspberry Pi 3B+ with Kali Linux. Full WPA2 attack chain: passive recon, deauth frame injection, 4-way handshake capture, and offline credential recovery. Hidden SSID detection, open network traffic analysis, and WPS enumeration using Alfa AWUS1900, aircrack-ng suite, and Kismet |
